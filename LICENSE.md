@@ -1,4 +1,4 @@
-# 
+# Profissional Open WebUI plugins. Com assistente de voz e modelos híbridos de IA — otimizado para máximo desempenho e eficiência.
 
 
 
